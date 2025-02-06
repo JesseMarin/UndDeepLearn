@@ -1,0 +1,1 @@
+This repo is for storing UNDERSTANDING DEEP LEARNING 1ST EDITION google colab notebooks!
